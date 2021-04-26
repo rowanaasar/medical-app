@@ -1,0 +1,25 @@
+//tools for html&css to access team to see design and know fonts and img "export assets"
+https://www.figma.com/
+
+// if i found and not found all extention "font"
+https://onlinefontconverter.com/
+
+//google fonts download or uses by tag
+https://fonts.google.com/
+
+// to get use easy
+https://docs.emmet.io/
+https://docs.emmet.io/abbreviations/syntax/
+
+
+//to get the gardient in color
+https://cssgradient.io/
+
+
+//icone
+https://fontawesome.com/v4.7.0/
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+#yadawy
+https://www.yodawy.com/about-us/

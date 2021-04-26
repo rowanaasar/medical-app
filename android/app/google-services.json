@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524974797687",
+    "project_id": "medhouse-iti",
+    "storage_bucket": "medhouse-iti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524974797687:android:57851a3fdf478b9d41e772",
+        "android_client_info": {
+          "package_name": "com.example.medhouse_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524974797687-7th9lmqhj0l561fsuqj8ujlk2h5gsfup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medhouse_project",
+            "certificate_hash": "568f461bb7eb3bfffa819da3be75be0d8b6b3748"
+          }
+        },
+        {
+          "client_id": "524974797687-j029drvg85r3crmo8bdle5ufjtgrep8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDOjC0C_EnqRY09ADYFIj1y4F2v5uNgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524974797687-j029drvg85r3crmo8bdle5ufjtgrep8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
